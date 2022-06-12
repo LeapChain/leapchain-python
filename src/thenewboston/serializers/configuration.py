@@ -1,6 +1,6 @@
 from rest_framework import serializers
 
-from thenewboston.constants.network import MAX_POINT_VALUE, MIN_POINT_VALUE, PROTOCOL_CHOICES, VERIFY_KEY_LENGTH
+from leapchain.constants.network import MAX_POINT_VALUE, MIN_POINT_VALUE, PROTOCOL_CHOICES, VERIFY_KEY_LENGTH
 
 """
 The ConfigurationSerializer is used as a base class to ensure that a node is properly configured

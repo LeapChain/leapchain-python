@@ -1,6 +1,6 @@
 from rest_framework import serializers
 
-from thenewboston.constants.network import HEAD_HASH_LENGTH, MAX_POINT_VALUE, MIN_POINT_VALUE, PROTOCOL_CHOICES, \
+from leapchain.constants.network import HEAD_HASH_LENGTH, MAX_POINT_VALUE, MIN_POINT_VALUE, PROTOCOL_CHOICES, \
     VERIFY_KEY_LENGTH
 
 """

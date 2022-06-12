@@ -1,21 +1,21 @@
-thenewboston.accounts package
+leapchain.accounts package
 =============================
 
 Submodules
 ----------
 
-thenewboston.accounts.key\_files module
+leapchain.accounts.key\_files module
 ---------------------------------------
 
-.. automodule:: thenewboston.accounts.key_files
+.. automodule:: leapchain.accounts.key_files
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.accounts.manage module
+leapchain.accounts.manage module
 -----------------------------------
 
-.. automodule:: thenewboston.accounts.manage
+.. automodule:: leapchain.accounts.manage
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ thenewboston.accounts.manage module
 Module contents
 ---------------
 
-.. automodule:: thenewboston.accounts
+.. automodule:: leapchain.accounts
    :members:
    :undoc-members:
    :show-inheritance:

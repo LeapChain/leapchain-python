@@ -1,10 +1,10 @@
-thenewboston.serializers package
+leapchain.serializers package
 ================================
 
 Submodules
 ----------
 
-thenewboston.serializers.account\_balance module
+leapchain.serializers.account\_balance module
 ------------------------------------------------
 
 .. automodule:: thenewboston.serializers.account_balance

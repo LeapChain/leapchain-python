@@ -1,85 +1,85 @@
-thenewboston.utils package
+leapchain.utils package
 ==========================
 
 Submodules
 ----------
 
-thenewboston.utils.exceptions module
+leapchain.utils.exceptions module
 ------------------------------------
 
-.. automodule:: thenewboston.utils.exceptions
+.. automodule:: leapchain.utils.exceptions
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.utils.fields module
+leapchain.utils.fields module
 --------------------------------
 
-.. automodule:: thenewboston.utils.fields
+.. automodule:: leapchain.utils.fields
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.utils.files module
+leapchain.utils.files module
 -------------------------------
 
-.. automodule:: thenewboston.utils.files
+.. automodule:: leapchain.utils.files
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.utils.format module
+leapchain.utils.format module
 --------------------------------
 
-.. automodule:: thenewboston.utils.format
+.. automodule:: leapchain.utils.format
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.utils.messages module
+leapchain.utils.messages module
 ----------------------------------
 
-.. automodule:: thenewboston.utils.messages
+.. automodule:: leapchain.utils.messages
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.utils.network module
+leapchain.utils.network module
 ---------------------------------
 
-.. automodule:: thenewboston.utils.network
+.. automodule:: leapchain.utils.network
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.utils.serializers module
+leapchain.utils.serializers module
 -------------------------------------
 
-.. automodule:: thenewboston.utils.serializers
+.. automodule:: leapchain.utils.serializers
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.utils.signed\_requests module
+leapchain.utils.signed\_requests module
 ------------------------------------------
 
-.. automodule:: thenewboston.utils.signed_requests
+.. automodule:: leapchain.utils.signed_requests
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.utils.tools module
+leapchain.utils.tools module
 -------------------------------
 
-.. automodule:: thenewboston.utils.tools
+.. automodule:: leapchain.utils.tools
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.utils.validators module
+leapchain.utils.validators module
 ------------------------------------
 
-.. automodule:: thenewboston.utils.validators
+.. automodule:: leapchain.utils.validators
    :members:
    :undoc-members:
    :show-inheritance:
@@ -87,7 +87,7 @@ thenewboston.utils.validators module
 Module contents
 ---------------
 
-.. automodule:: thenewboston.utils
+.. automodule:: leapchain.utils
    :members:
    :undoc-members:
    :show-inheritance:

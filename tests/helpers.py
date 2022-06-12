@@ -1,5 +1,5 @@
-from thenewboston.accounts.manage import create_account
-from thenewboston.verify_keys.verify_key import encode_verify_key
+from leapchain.accounts.manage import create_account
+from leapchain.verify_keys.verify_key import encode_verify_key
 
 
 def random_encoded_account_number():

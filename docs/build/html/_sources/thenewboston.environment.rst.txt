@@ -1,13 +1,13 @@
-thenewboston.environment package
+leapchain.environment package
 ================================
 
 Submodules
 ----------
 
-thenewboston.environment.environment\_variables module
+leapchain.environment.environment\_variables module
 ------------------------------------------------------
 
-.. automodule:: thenewboston.environment.environment_variables
+.. automodule:: leapchain.environment.environment_variables
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ thenewboston.environment.environment\_variables module
 Module contents
 ---------------
 
-.. automodule:: thenewboston.environment
+.. automodule:: leapchain.environment
    :members:
    :undoc-members:
    :show-inheritance:

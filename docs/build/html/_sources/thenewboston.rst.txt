@@ -1,4 +1,4 @@
-thenewboston package
+leapchain package
 ====================
 
 Subpackages
@@ -7,24 +7,24 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
-   thenewboston.accounts
-   thenewboston.argparser
-   thenewboston.base_classes
-   thenewboston.blocks
-   thenewboston.constants
-   thenewboston.environment
-   thenewboston.factories
-   thenewboston.models
-   thenewboston.serializers
-   thenewboston.third_party
-   thenewboston.transactions
-   thenewboston.utils
-   thenewboston.verify_keys
+   leapchain.accounts
+   leapchain.argparser
+   leapchain.base_classes
+   leapchain.blocks
+   leapchain.constants
+   leapchain.environment
+   leapchain.factories
+   leapchain.models
+   leapchain.serializers
+   leapchain.third_party
+   leapchain.transactions
+   leapchain.utils
+   leapchain.verify_keys
 
 Module contents
 ---------------
 
-.. automodule:: thenewboston
+.. automodule:: leapchain
    :members:
    :undoc-members:
    :show-inheritance:

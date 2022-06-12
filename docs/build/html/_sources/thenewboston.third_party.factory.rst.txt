@@ -1,13 +1,13 @@
-thenewboston.third\_party.factory package
+leapchain.third\_party.factory package
 =========================================
 
 Submodules
 ----------
 
-thenewboston.third\_party.factory.utils module
+leapchain.third\_party.factory.utils module
 ----------------------------------------------
 
-.. automodule:: thenewboston.third_party.factory.utils
+.. automodule:: leapchain.third_party.factory.utils
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ thenewboston.third\_party.factory.utils module
 Module contents
 ---------------
 
-.. automodule:: thenewboston.third_party.factory
+.. automodule:: leapchain.third_party.factory
    :members:
    :undoc-members:
    :show-inheritance:

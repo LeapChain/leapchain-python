@@ -1,10 +1,10 @@
 from rest_framework import serializers
 
-from thenewboston.blocks.signatures import verify_signature
-from thenewboston.constants.network import BANK, PRIMARY_VALIDATOR, SIGNATURE_LENGTH, VERIFY_KEY_LENGTH
-from thenewboston.serializers.message import MessageSerializer
-from thenewboston.utils.serializers import validate_keys
-from thenewboston.utils.tools import sort_and_encode
+from leapchain.blocks.signatures import verify_signature
+from leapchain.constants.network import BANK, PRIMARY_VALIDATOR, SIGNATURE_LENGTH, VERIFY_KEY_LENGTH
+from leapchain.serializers.message import MessageSerializer
+from leapchain.utils.serializers import validate_keys
+from leapchain.utils.tools import sort_and_encode
 
 
 class NetworkBlockSerializer(serializers.Serializer):

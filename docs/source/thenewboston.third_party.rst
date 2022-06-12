@@ -1,4 +1,4 @@
-thenewboston.third\_party package
+leapchain.third\_party package
 =================================
 
 Subpackages
@@ -7,14 +7,14 @@ Subpackages
 .. toctree::
    :maxdepth: 4
 
-   thenewboston.third_party.django_redis
-   thenewboston.third_party.factory
-   thenewboston.third_party.pytest
+   leapchain.third_party.django_redis
+   leapchain.third_party.factory
+   leapchain.third_party.pytest
 
 Module contents
 ---------------
 
-.. automodule:: thenewboston.third_party
+.. automodule:: leapchain.third_party
    :members:
    :undoc-members:
    :show-inheritance:

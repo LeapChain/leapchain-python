@@ -1,13 +1,13 @@
-thenewboston.argparser package
+leapchain.argparser package
 ==============================
 
 Submodules
 ----------
 
-thenewboston.argparser.validators module
+leapchain.argparser.validators module
 ----------------------------------------
 
-.. automodule:: thenewboston.argparser.validators
+.. automodule:: leapchain.argparser.validators
    :members:
    :undoc-members:
    :show-inheritance:
@@ -15,7 +15,7 @@ thenewboston.argparser.validators module
 Module contents
 ---------------
 
-.. automodule:: thenewboston.argparser
+.. automodule:: leapchain.argparser
    :members:
    :undoc-members:
    :show-inheritance:

@@ -1,6 +1,6 @@
 from nacl.signing import SigningKey, VerifyKey
 
-from thenewboston.accounts.manage import create_account
+from leapchain.accounts.manage import create_account
 
 
 def test_create_account():

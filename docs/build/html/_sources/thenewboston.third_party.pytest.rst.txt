@@ -1,21 +1,21 @@
-thenewboston.third\_party.pytest package
+leapchain.third\_party.pytest package
 ========================================
 
 Submodules
 ----------
 
-thenewboston.third\_party.pytest.asserts module
+leapchain.third\_party.pytest.asserts module
 -----------------------------------------------
 
-.. automodule:: thenewboston.third_party.pytest.asserts
+.. automodule:: leapchain.third_party.pytest.asserts
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.third\_party.pytest.client module
+leapchain.third\_party.pytest.client module
 ----------------------------------------------
 
-.. automodule:: thenewboston.third_party.pytest.client
+.. automodule:: leapchain.third_party.pytest.client
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ thenewboston.third\_party.pytest.client module
 Module contents
 ---------------
 
-.. automodule:: thenewboston.third_party.pytest
+.. automodule:: leapchain.third_party.pytest
    :members:
    :undoc-members:
    :show-inheritance:

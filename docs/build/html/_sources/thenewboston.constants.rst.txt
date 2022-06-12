@@ -1,37 +1,37 @@
-thenewboston.constants package
+leapchain.constants package
 ==============================
 
 Submodules
 ----------
 
-thenewboston.constants.clean module
+leapchain.constants.clean module
 -----------------------------------
 
-.. automodule:: thenewboston.constants.clean
+.. automodule:: leapchain.constants.clean
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.constants.crawl module
+leapchain.constants.crawl module
 -----------------------------------
 
-.. automodule:: thenewboston.constants.crawl
+.. automodule:: leapchain.constants.crawl
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.constants.errors module
+leapchain.constants.errors module
 ------------------------------------
 
-.. automodule:: thenewboston.constants.errors
+.. automodule:: leapchain.constants.errors
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.constants.network module
+leapchain.constants.network module
 -------------------------------------
 
-.. automodule:: thenewboston.constants.network
+.. automodule:: leapchain.constants.network
    :members:
    :undoc-members:
    :show-inheritance:
@@ -39,7 +39,7 @@ thenewboston.constants.network module
 Module contents
 ---------------
 
-.. automodule:: thenewboston.constants
+.. automodule:: leapchain.constants
    :members:
    :undoc-members:
    :show-inheritance:

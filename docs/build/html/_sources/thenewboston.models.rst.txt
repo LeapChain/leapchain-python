@@ -1,45 +1,45 @@
-thenewboston.models package
+leapchain.models package
 ===========================
 
 Submodules
 ----------
 
-thenewboston.models.confirmation\_service module
+leapchain.models.confirmation\_service module
 ------------------------------------------------
 
-.. automodule:: thenewboston.models.confirmation_service
+.. automodule:: leapchain.models.confirmation_service
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.models.created\_modified module
+leapchain.models.created\_modified module
 --------------------------------------------
 
-.. automodule:: thenewboston.models.created_modified
+.. automodule:: leapchain.models.created_modified
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.models.network\_node module
+leapchain.models.network\_node module
 ----------------------------------------
 
-.. automodule:: thenewboston.models.network_node
+.. automodule:: leapchain.models.network_node
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.models.network\_transaction module
+leapchain.models.network\_transaction module
 -----------------------------------------------
 
-.. automodule:: thenewboston.models.network_transaction
+.. automodule:: leapchain.models.network_transaction
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.models.network\_validator module
+leapchain.models.network\_validator module
 ---------------------------------------------
 
-.. automodule:: thenewboston.models.network_validator
+.. automodule:: leapchain.models.network_validator
    :members:
    :undoc-members:
    :show-inheritance:
@@ -47,7 +47,7 @@ thenewboston.models.network\_validator module
 Module contents
 ---------------
 
-.. automodule:: thenewboston.models
+.. automodule:: leapchain.models
    :members:
    :undoc-members:
    :show-inheritance:
