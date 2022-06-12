@@ -1,34 +1,34 @@
-thenewboston.factories package
+leapchain.factories package
 ==============================
 
 Submodules
 ----------
 
-thenewboston.factories.confirmation\_service module
+leapchain.factories.confirmation\_service module
 ---------------------------------------------------
 
-.. automodule:: thenewboston.factories.confirmation_service
+.. automodule:: leapchain.factories.confirmation_service
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.factories.created\_modified module
+leapchain.factories.created\_modified module
 -----------------------------------------------
 
-.. automodule:: thenewboston.factories.created_modified
+.. automodule:: leapchain.factories.created_modified
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.factories.network\_node module
+leapchain.factories.network\_node module
 -------------------------------------------
 
-.. automodule:: thenewboston.factories.network_node
+.. automodule:: leapchain.factories.network_node
    :members:
    :undoc-members:
    :show-inheritance:
 
-thenewboston.factories.network\_transaction module
+leapchain.factories.network\_transaction module
 --------------------------------------------------
 
 .. automodule:: thenewboston.factories.network_transaction
