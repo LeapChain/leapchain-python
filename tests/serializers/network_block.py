@@ -1,10 +1,10 @@
 from tests.helpers import random_encoded_account_number
 
-from thenewboston.accounts.manage import create_account
-from thenewboston.blocks.block import generate_block
-from thenewboston.constants.network import BANK, PRIMARY_VALIDATOR
-from thenewboston.serializers.network_block import NetworkBlockSerializer
-from thenewboston.verify_keys.verify_key import encode_verify_key
+from leapchain.accounts.manage import create_account
+from leapchain.blocks.block import generate_block
+from leapchain.constants.network import BANK, PRIMARY_VALIDATOR
+from leapchain.serializers.network_block import NetworkBlockSerializer
+from leapchain.verify_keys.verify_key import encode_verify_key
 
 
 def test_network_block_serializer():
