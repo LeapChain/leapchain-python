@@ -1,7 +1,7 @@
 from django.db import models
 
-from thenewboston.constants.network import ACCOUNT_FILE_HASH_LENGTH, BLOCK_IDENTIFIER_LENGTH
-from thenewboston.models.network_node import NetworkNode
+from leapchain.constants.network import ACCOUNT_FILE_HASH_LENGTH, BLOCK_IDENTIFIER_LENGTH
+from leapchain.models.network_node import NetworkNode
 
 
 class NetworkValidator(NetworkNode):

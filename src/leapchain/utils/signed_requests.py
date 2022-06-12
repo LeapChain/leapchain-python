@@ -1,6 +1,6 @@
-from thenewboston.blocks.signatures import generate_signature
-from thenewboston.utils.tools import sort_and_encode
-from thenewboston.verify_keys.verify_key import encode_verify_key, get_verify_key
+from leapchain.blocks.signatures import generate_signature
+from leapchain.utils.tools import sort_and_encode
+from leapchain.verify_keys.verify_key import encode_verify_key, get_verify_key
 
 
 def generate_signed_request(*, data, nid_signing_key):

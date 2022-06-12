@@ -1,6 +1,6 @@
 from hashlib import sha3_256 as sha3
 
-from thenewboston.utils.tools import sort_and_encode
+from leapchain.utils.tools import sort_and_encode
 
 
 def get_message_hash(*, message):

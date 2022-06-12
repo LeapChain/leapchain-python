@@ -1,6 +1,6 @@
 from rest_framework import serializers
 
-from thenewboston.constants.network import MAX_POINT_VALUE, VERIFY_KEY_LENGTH
+from leapchain.constants.network import MAX_POINT_VALUE, VERIFY_KEY_LENGTH
 
 
 class AccountBalanceSerializer(serializers.Serializer):

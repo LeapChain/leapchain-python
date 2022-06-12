@@ -1,6 +1,6 @@
 import requests
 
-from thenewboston.utils.exceptions import NetworkException
+from leapchain.utils.exceptions import NetworkException
 
 
 def fetch(*, url, headers):

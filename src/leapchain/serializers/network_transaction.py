@@ -2,14 +2,14 @@ import re
 
 from rest_framework import serializers
 
-from thenewboston.constants.network import (
+from leapchain.constants.network import (
     ACCEPTED_FEE_LIST,
     MAX_POINT_VALUE,
     MEMO_MAX_LENGTH,
     MIN_POINT_VALUE,
     VERIFY_KEY_LENGTH
 )
-from thenewboston.utils.serializers import validate_keys
+from leapchain.utils.serializers import validate_keys
 
 
 class NetworkTransactionSerializer(serializers.Serializer):

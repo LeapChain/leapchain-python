@@ -3,7 +3,7 @@ from uuid import uuid4
 from django.core.validators import MaxValueValidator, MinValueValidator
 from django.db import models
 
-from thenewboston.constants.network import (
+from leapchain.constants.network import (
     ACCEPTED_FEE_CHOICES,
     MAX_POINT_VALUE,
     MEMO_MAX_LENGTH,

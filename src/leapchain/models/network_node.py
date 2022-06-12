@@ -3,7 +3,7 @@ from uuid import uuid4
 from django.core.validators import MaxValueValidator, MinValueValidator
 from django.db import models
 
-from thenewboston.constants.network import MAX_POINT_VALUE, MIN_POINT_VALUE, PROTOCOL_CHOICES, VERIFY_KEY_LENGTH
+from leapchain.constants.network import MAX_POINT_VALUE, MIN_POINT_VALUE, PROTOCOL_CHOICES, VERIFY_KEY_LENGTH
 
 
 class NetworkNode(models.Model):
