@@ -1,11 +1,11 @@
 from nacl.signing import SigningKey, VerifyKey
 
-from thenewboston.accounts.key_files import (
+from leapchain.accounts.key_files import (
     create_account_and_save_signing_key_file,
     read_signing_key_file,
     write_signing_key_file
 )
-from thenewboston.accounts.manage import create_account
+from leapchain.accounts.manage import create_account
 
 
 def test_create_account_and_save_signing_key_file(tmpdir):

@@ -6,7 +6,7 @@ omit = */tests/*
 branch = True
 
 include =
-    thenewboston/*
+    leapchain/*
 
 [report]
 precision = 2
