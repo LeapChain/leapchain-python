@@ -18,9 +18,9 @@ sys.path.insert(0, os.path.abspath('../../src/'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'thenewboston-python'
-copyright = '2020, Bucky Roberts'
-author = 'Bucky Roberts'
+project = 'leapchain-python'
+copyright = '2022, Leapchain'
+author = 'Leapchain'
 
 
 # -- General configuration ---------------------------------------------------

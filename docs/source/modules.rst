@@ -1,7 +1,7 @@
-thenewboston
+leapchain
 ============
 
 .. toctree::
    :maxdepth: 4
 
-   thenewboston
+   leapchain
