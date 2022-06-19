@@ -1,7 +1,3 @@
-<p align="center">
-  <img alt="leapchain logo" src="https://user-images.githubusercontent.com/65713950/100157416-cf2bbc00-2eaa-11eb-95fe-3ef87a18ad93.png" width="620">
-</p>
-
 ## Overview
 
 Python library for leapchain digital currency.
